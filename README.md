@@ -24,4 +24,4 @@
 
 - Hotkey adjusts the brightness.
 - ~~Battery indicator.~~ (fixed via this [post](https://www.reddit.com/r/hackintosh/comments/n2nvf8/ecenabler_no_more_acpi_patches_for_battery_sorta/))
-- Need improvement for the touchpad.
+- ~~Need improvement for the touchpad.~~ (Updated new VoodooPS2.kext)
