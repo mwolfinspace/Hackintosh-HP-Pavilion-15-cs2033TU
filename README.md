@@ -23,5 +23,5 @@
 ## What doesn't work
 
 - Hotkey adjusts the brightness.
-- ~~Battery indicator.~~ (fixed via this [post]([ECEnabler: No more ACPI patches for battery! (Sorta) : hackintosh (reddit.com)](https://www.reddit.com/r/hackintosh/comments/n2nvf8/ecenabler_no_more_acpi_patches_for_battery_sorta/)))
+- ~~Battery indicator.~~ (fixed via this [post](https://www.reddit.com/r/hackintosh/comments/n2nvf8/ecenabler_no_more_acpi_patches_for_battery_sorta/))
 - Need improvement for the touchpad.
