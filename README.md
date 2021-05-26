@@ -18,9 +18,10 @@
 - LAN: Realtek RTL8168H/8111H kext.
 - Touchpad: ELAN ETD074C (074C). Turn off by pressing <kbd>prc sc</kbd>.
 - Audio: Realtek ALC295 (layout-id=28) (Shutdown after dual-boot with Windows to reset audio state on macOS).
+- Battery: HT03XL size (Work perfectly, information show up).
 
 ## What doesn't work
 
 - Hotkey adjusts the brightness.
-- Battery indicator.
+- ~~Battery indicator.~~ (fixed via this [post]([ECEnabler: No more ACPI patches for battery! (Sorta) : hackintosh (reddit.com)](https://www.reddit.com/r/hackintosh/comments/n2nvf8/ecenabler_no_more_acpi_patches_for_battery_sorta/)))
 - Need improvement for the touchpad.
