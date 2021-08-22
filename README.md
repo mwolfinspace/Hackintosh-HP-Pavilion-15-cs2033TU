@@ -3,7 +3,7 @@
 ## Note Before using this pre-make OpenCore
 
 1. Double-check the specification.
-2. Please change the SMBIOS information by using GenSMBIOS [here](https://github.com/corpnewt/GenSMBIOS). Tutorial? Check [this one](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html#uefi).
+2. Please change the SMBIOS information by using GenSMBIOS [here](https://github.com/corpnewt/GenSMBIOS). Tutorial? Check [this one](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html#platforminfo) and focus on platforminfo.
 3. Some components wouldn't work because I changed them like add an NVME SSD and replace the original Wi-Fi card with the Macbook's one.
 
 ## Specification:
