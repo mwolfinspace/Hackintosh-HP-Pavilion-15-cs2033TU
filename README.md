@@ -17,7 +17,7 @@
 - Wi-Fi: Replaced Intel Wireless-AC 9461 by BCM94360CS (Use [itlwm](https://github.com/OpenIntelWireless/itlwm) and [HeliPort](https://github.com/OpenIntelWireless/HeliPort) if you still don't have a better Wi-Fi card).
 - LAN: Realtek RTL8168H/8111H kext.
 - Touchpad: ELAN ETD074C (074C). ~~Turn off by pressing <kbd>prc sc</kbd>.~~
-- Audio: Realtek ALC295 (layout-id=28) (Shutdown after dual-boot with Windows to reset audio state on macOS).
+- Audio: Realtek ALC295 (layout-id=28) (Shutdown after dual-boot with Windows to reset audio state on macOS). Fix the external mic by [ALCPlugFix](https://github.com/black-dragon74/ALCPlugFix-Swift) (use Node ID=0x19).
 - Battery: HT03XL size (Work perfectly, information show up).
 
 ## What doesn't work:
