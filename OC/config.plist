@@ -144,6 +144,8 @@
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<true/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 			<key>SetupVirtualMap</key>
 			<true/>
 			<key>SignalAppleOS</key>
@@ -1002,38 +1004,6 @@
 		<true/>
 		<key>CustomMemory</key>
 		<false/>
-		<key>Generic</key>
-		<dict>
-			<key>AdviseWindows</key>
-			<false/>
-			<key>MLB</key>
-			<string>C02025501QXJH4R1M</string>
-			<key>ROM</key>
-			<data>KKNF+PET</data>
-			<key>SpoofVendor</key>
-			<true/>
-			<key>SystemMemoryStatus</key>
-			<string>Auto</string>
-			<key>SystemProductName</key>
-			<string>MacBookPro15,2</string>
-			<key>SystemSerialNumber</key>
-			<string>C02CWEZVJHCC</string>
-			<key>SystemUUID</key>
-			<string>80E07F76-F764-4935-A1F2-CE1854DB84AA</string>
-		</dict>
-		<key>PlatformNVRAM</key>
-		<dict>
-			<key>BID</key>
-			<string>Mac-B4831CEBD52A0C4C</string>
-			<key>FirmwareFeatures</key>
-			<data>duEP/AAAAAA=</data>
-			<key>FirmwareFeaturesMask</key>
-			<data>f/8f/wAAAAA=</data>
-			<key>MLB</key>
-			<string>C02838701J9HWVPCB</string>
-			<key>ROM</key>
-			<data>KNNF+PoT</data>
-		</dict>
 		<key>DataHub</key>
 		<dict>
 			<key>ARTFrequency</key>
@@ -1058,6 +1028,38 @@
 			<data></data>
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
+			<key>SystemProductName</key>
+			<string>MacBookPro15,2</string>
+			<key>SystemSerialNumber</key>
+			<string>C02CWEZVJHCC</string>
+			<key>SystemUUID</key>
+			<string>80E07F76-F764-4935-A1F2-CE1854DB84AA</string>
+		</dict>
+		<key>PlatformNVRAM</key>
+		<dict>
+			<key>BID</key>
+			<string>Mac-B4831CEBD52A0C4C</string>
+			<key>FirmwareFeatures</key>
+			<data>duEP/AAAAAA=</data>
+			<key>FirmwareFeaturesMask</key>
+			<data>f/8f/wAAAAA=</data>
+			<key>MLB</key>
+			<string>C02838701J9HWVPCB</string>
+			<key>ROM</key>
+			<data>KNNF+PoT</data>
+		</dict>
+		<key>Generic</key>
+		<dict>
+			<key>AdviseWindows</key>
+			<false/>
+			<key>MLB</key>
+			<string>C02025501QXJH4R1M</string>
+			<key>ROM</key>
+			<data>KKNF+PET</data>
+			<key>SpoofVendor</key>
+			<true/>
+			<key>SystemMemoryStatus</key>
+			<string>Auto</string>
 			<key>SystemProductName</key>
 			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
@@ -1405,6 +1407,8 @@
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
