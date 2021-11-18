@@ -16,7 +16,7 @@
 - SSD: 256GB WD WDS500G2B0C-00PXH0.
 - Wi-Fi: Replaced Intel Wireless-AC 9461 by BCM94360CS (Use [itlwm](https://github.com/OpenIntelWireless/itlwm) and [HeliPort](https://github.com/OpenIntelWireless/HeliPort) if you still don't have a better Wi-Fi card).
 - LAN: Realtek RTL8168H/8111H kext.
-- Touchpad: ELAN ETD074C (074C). ~~Turn off by pressing <kbd>prc sc</kbd>.~~
+- Touchpad: ELAN ETD074C (074C). Turn off by [enable this setting](https://github.com/mwolfinspace/linhtinh_text/blob/bb5c3d3d98dbf31096a908c19bd9f4bffe3b32e9/assets/Screen%20Shot%202021-11-18%20at%2008.13.58.png).
 - Audio: Realtek ALC295 (layout-id=28) (Shutdown after dual-boot with Windows to reset audio state on macOS). Fix the external mic by [ALCPlugFix](https://github.com/black-dragon74/ALCPlugFix-Swift) (use Node ID=0x19 and install Homebrew before using ALCPlugFix).
 - Battery: HT03XL size (Work perfectly, information show up).
 
